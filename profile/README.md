@@ -1,5 +1,3 @@
-The unified system for AI applications.
-
 - [Getting started](https://guides.substrate.run/start)
 - [Python SDK](https://github.com/substratelabs/substrate-python)
 - [TypeScript SDK](https://github.com/substratelabs/substrate-typescript)
